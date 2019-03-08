@@ -1,0 +1,30 @@
+* {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    margin-left: .7%;
+}
+.logo {
+    width: 75px;
+}
+.menu, .pesquisa, .share, .links {
+    float: right;
+    margin-right: 20px;
+}
+.menu-inside {
+    display: inline;
+    padding: 10px;
+    font-size: .8em;
+}
+.pesquisa {
+    width: 300px;
+}
+.centralizado {
+    font-weight: lighter;
+    margin-left: 30%;
+    text-decoration: underline;
+}
+.footer {
+    font-size: .7em;
+}
+.grid {
+    padding-left: 50px;
+}
