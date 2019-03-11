@@ -23,8 +23,14 @@
     text-decoration: underline;
 }
 .footer {
+    margin-top: 5%;
     font-size: .7em;
 }
 .grid {
     padding-left: 50px;
+}
+.conteudo {
+    width: 700px;
+    margin-left: 20%;
+    margin-top: 5%;
 }

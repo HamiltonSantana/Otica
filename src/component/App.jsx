@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import Menu from './Menu';
 import MenuPesquisa from './MenuPesquisa';
 import Rodape from './Rodape';
+import Conteudo from './Conteudo';
 
 
 class App extends Component {
@@ -16,6 +17,7 @@ class App extends Component {
                 <img src={this.state.logo} className="logo" alt="logo"/>
                 <Menu />
                 <h1>OPTICA {this.state.name} LTDA ME</h1>
+                <Conteudo />
                 <MenuPesquisa />
                 <Rodape />
             </div>
